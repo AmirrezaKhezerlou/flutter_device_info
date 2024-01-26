@@ -1,16 +1,8 @@
 # devicee
 
-A new Flutter project.
+DevInfo is simple phone info application
 
 ## Getting Started
+![photo9363779753](https://github.com/AmirrezaKhezerlou/flutter_device_info/assets/45494511/31e6c621-fce2-4365-ba21-1487c245f7aa)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is an application made with Flutter that shows simple information such as the Android version of the phone, the amount of device RAM, the amount of phone hard disk memory, etc. and is designed with GetX
